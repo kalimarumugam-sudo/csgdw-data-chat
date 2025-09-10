@@ -10,7 +10,7 @@ def execute_sql_query(query, dataframe):
         # Register the dataframe with DuckDB so it can be queried as 'df'
         conn = duckdb.connect()
         conn.register('df', dataframe)
-        result = conn.execute(query).to_df()
+        result = conn.execute(query).df()
         conn.close()
         return result, None
     except Exception as e:

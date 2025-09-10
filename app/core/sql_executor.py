@@ -14,7 +14,7 @@ def execute_sql_query(query: str, dataframe: pd.DataFrame) -> Tuple[Optional[pd.
     try:
         connection = duckdb.connect()
         connection.register("df", dataframe)
-        result_df = connection.execute(query).to_df()
+        result_df = connection.execute(query).df()
         connection.close()
         return result_df, None
     except Exception as exc:  # noqa: BLE001 - propagate as string for UI
