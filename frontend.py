@@ -63,13 +63,19 @@ def run_app():
 
     # Sidebar - Chat Interface (Hideable)
     with st.sidebar:
-        st.subheader("💬 Buy Rates Analysis Chat")
+        # Add logo if it exists
+        try:
+            st.image("logo.png", width=200)
+        except:
+            pass  # If logo doesn't exist, just continue without it
+        
+        st.subheader("💬 CSG Digital Wholesale Data Chat")
         
         # Show current LLM provider
         provider_name = "🤖 OpenAI GPT-4" if USE_OPENAI else "🧠 AWS Bedrock Claude 3.5 Sonnet"
         st.info(f"**LLM Provider:** {provider_name}")
         
-        st.write("Ask questions about your buy rates data - trends, comparisons, and insights!")
+        st.write("Ask questions about your wholesale data - trends, comparisons, and insights!")
         
         # Clear chat button at top
         if st.button("🗑️ Clear Chat", use_container_width=True):
@@ -88,7 +94,7 @@ def run_app():
     # Chat input at the very bottom of sidebar
     with st.sidebar:
         # Chat input (positioned at bottom)
-        if prompt := st.chat_input("Ask about your buy rates data (e.g., 'Show me rate trends' or 'Compare rates by category')"):
+        if prompt := st.chat_input("Ask about your wholesale data (e.g., 'Show me rate trends' or 'Compare rates by category')"):
             # Add user message to chat history
             st.session_state.messages.append({"role": "user", "content": prompt})
             
