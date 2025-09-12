@@ -1,0 +1,515 @@
+﻿Destination;Supplier;Supplier Product;Product;Proportion;Sequence;Floor Price;Rate;Next Rate;Next Rate Diff;FP Diff;NID;Next Valid From;Next Valid Until;Destination Responsible
+Albania x;Pantel International AG;Standard-Refile;ISDN;100;1;0.1120;0.3040;0.3040;0.0000;0.1920;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Vodafone D2 GmbH;Premium-Refile;ISDN;;2;0.1120;0.2868;0.8016;0.5148;0.6896;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Vox Mundi;ISDN Refile;ISDN;;;0.1120;0.3262;0.3262;0.0000;0.2142;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Akton Telekomunikacijski inzeniring d.o.o.;ISDN-Refile;ISDN;;;0.1120;0.3020;0.3020;0.0000;0.1900;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Pantel International AG;ISDN-Refile;ISDN;;;0.1120;0.3040;0.3040;0.0000;0.1920;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Romtelecom;ISDN-Refile;ISDN;;;0.1120;0.2842;0.8000;0.5158;0.6880;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;T-Hrvatski Telekom;ISDN-Refile;ISDN;;;0.1120;0.3400;1.6000;1.2600;1.4880;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telefonica O2 Czech Republic. a.s.;ISDN-Refile;ISDN;;;0.1120;0.3090;0.3090;0.0000;0.1970;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telenor Global Services AS;ISDN-Refile;ISDN;;;0.1120;0.3136;0.3136;0.0000;0.2016;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;TeliaSonera International Carrier AB;ISDN-Refile;ISDN;;;0.1120;0.2480;0.2480;0.0000;0.1360;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Vodafone D2 GmbH;ISDN-Refile;ISDN;;;0.1120;0.2868;0.8016;0.5148;0.6896;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;UNIFI Communications. INC;ISDN-refile;ISDN;;;0.1120;0.3018;0.8058;0.5040;0.6938;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Romtelecom;Premium-Refile;ISDN;;;0.1120;0.2842;0.8000;0.5158;0.6880;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;T-Hrvatski Telekom;Premium-Refile;ISDN;;;0.1120;0.3400;1.6000;1.2600;1.4880;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;TeliaSonera International Carrier AB;Premium-Refile;ISDN;;;0.1120;0.2480;0.2480;0.0000;0.1360;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telenor Global Services AS;Prm-Refile;ISDN;;;0.1120;0.3136;0.3136;0.0000;0.2016;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Vox Mundi;Standard Refile;ISDN;;;0.1120;0.3262;0.3262;0.0000;0.2142;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Akton Telekomunikacijski inzeniring d.o.o.;Standard-Refile;ISDN;;;0.1120;0.3020;0.3020;0.0000;0.1900;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;TDC Switzerland AG;Standard-Refile;ISDN;;;0.1120;0.1480;0.7800;0.6320;0.6680;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telefonica O2 Czech Republic. a.s.;Standard-Refile;ISDN;;;0.1120;0.3090;0.3090;0.0000;0.1970;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;UNIFI Communications. INC;Standard-refile;ISDN;;;0.1120;0.3018;0.8058;0.5040;0.6938;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telekom Slovenija - SiOL;VoIP-ISDN-Refile;ISDN;;;0.1120;0.0537;0.7300;0.6763;0.6180;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telekom Slovenija - SiOL;VoIP-Refile;ISDN;;;0.1120;0.0537;0.7300;0.6763;0.6180;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Estonia-EMT;iBasis Netherlands B.V.;Premium-Refile;ISDN;;2;0.6000;0.1530;0.4406;0.2876;-0.1594;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;SURFCREEK COMMUNICATIONS INC.;ISDN Refile;ISDN;;;0.6000;0.4180;0.4180;0.0000;-0.1820;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);ISDN-Refile;ISDN;;;0.6000;0.1604;0.1604;0.0000;-0.4396;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Elisa Corporation;ISDN-Refile;ISDN;;;0.6000;0.1610;0.4000;0.2390;-0.2000;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;IXC Global Inc.;ISDN-Refile;ISDN;;;0.6000;0.4643;0.4643;0.0000;-0.1357;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Pantel International AG;ISDN-Refile;ISDN;;;0.6000;0.3960;0.4180;0.0220;-0.1820;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;TDC Switzerland AG;ISDN-Refile;ISDN;;;0.6000;0.1636;0.4040;0.2404;-0.1960;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Telenor Global Services AS;ISDN-Refile;ISDN;;;0.6000;0.2600;0.4440;0.1840;-0.1560;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Teltac World Wide Inc.SAL;ISDN-Refile;ISDN;;;0.6000;0.3836;0.3836;0.0000;-0.2164;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Vodafone D2 GmbH;ISDN-Refile;ISDN;;;0.6000;0.1686;0.4368;0.2682;-0.1632;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;iBasis Netherlands B.V.;ISDN-Refile;ISDN;;;0.6000;0.1530;0.4406;0.2876;-0.1594;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Elisa Corporation;Premium-Refile;ISDN;;;0.6000;0.1610;0.4000;0.2390;-0.2000;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;MTT;Premium-Refile;ISDN;;;0.6000;0.6668;0.6668;0.0000;0.0668;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Vodafone D2 GmbH;Premium-Refile;ISDN;;;0.6000;0.1686;0.4368;0.2682;-0.1632;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Telenor Global Services AS;Prm-Refile;ISDN;;;0.6000;0.1738;0.4180;0.2442;-0.1820;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;SURFCREEK COMMUNICATIONS INC.;Standard Refile;ISDN;;;0.6000;0.4180;0.4180;0.0000;-0.1820;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;GTS CZECH s.r.o.;Standard-ISDN-Refile;ISDN;;;0.6000;0.1736;0.3836;0.2100;-0.2164;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);Standard-Refile;ISDN;;;0.6000;0.1604;0.1604;0.0000;-0.4396;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;GTS CZECH s.r.o.;Standard-Refile;ISDN;;;0.6000;0.1736;0.3836;0.2100;-0.2164;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;IXC Global Inc.;Standard-Refile;ISDN;;;0.6000;0.4643;0.4643;0.0000;-0.1357;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Pantel International AG;Standard-Refile;ISDN;;;0.6000;0.3960;0.4180;0.0220;-0.1820;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Rostelecom;Standard-Refile;ISDN;;;0.6000;0.3732;0.4212;0.0480;-0.1788;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;TDC Switzerland AG;Standard-Refile;ISDN;;;0.6000;0.3874;0.3874;0.0000;-0.2126;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Teltac World Wide Inc.SAL;Standard-Refile;ISDN;;;0.6000;0.3836;0.3836;0.0000;-0.2164;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;KYIVSTAR JSC.;Standard Refile;ISDN;100;1;0.1090;0.3800;0.3800;0.0000;0.2710;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;LANCK Telecom;Standard Refile;ISDN;;4;0.1090;0.3840;0.3840;0.0000;0.2750;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;AAA-wiau;A-Z Product;ISDN;;;0.1090;0.9634;0.9634;0.0000;0.8544;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telekom Slovenija;DICT-ISDN;ISDN;;;0.1090;0.0002;0.0002;0.0000;-0.1088;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telekom Slovenija;DICT-VOICE;ISDN;;;0.1090;0.0002;0.0002;0.0000;-0.1088;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;AAA-wiau;Full-Country Product;ISDN;;;0.1090;0.9634;0.9634;0.0000;0.8544;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;KYIVSTAR JSC.;ISDN Refile;ISDN;;;0.1090;0.3800;0.3800;0.0000;0.2710;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;LANCK Telecom;ISDN Refile;ISDN;;;0.1090;0.3840;0.3840;0.0000;0.2750;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;PRIMETEL LTD;ISDN Refile;ISDN;;;0.1090;0.3922;0.3922;0.0000;0.2832;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;SURFCREEK COMMUNICATIONS INC.;ISDN Refile;ISDN;;;0.1090;0.4180;0.4180;0.0000;0.3090;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telecom Italia Sparkle;ISDN-Prm-Refile;ISDN;;;0.1090;0.5144;0.5144;0.0000;0.4054;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;COLT Telecom GmbH;ISDN-REFILE;ISDN;;;0.1090;0.3892;0.3892;0.0000;0.2802;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;A1 Telekom Austria AG;ISDN-Refile;ISDN;;;0.1090;0.3920;0.3920;0.0000;0.2830;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Akton Telekomunikacijski inzeniring d.o.o.;ISDN-Refile;ISDN;;;0.1090;0.4058;0.4058;0.0000;0.2968;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);ISDN-Refile;ISDN;;;0.1090;0.4030;0.4030;0.0000;0.2940;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Elisa Corporation;ISDN-Refile;ISDN;;;0.1090;0.4000;0.4000;0.0000;0.2910;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Hutchinson Global Communications Limited;ISDN-Refile;ISDN;;;0.1090;0.4376;0.4376;0.0000;0.3286;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;KDDI Europe Ltd;ISDN-Refile;ISDN;;;0.1090;0.2366;0.2366;0.0000;0.1276;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;OTEGLOBE;ISDN-Refile;ISDN;;;0.1090;0.3950;0.3950;0.0000;0.2860;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Romtelecom;ISDN-Refile;ISDN;;;0.1090;0.3918;0.3918;0.0000;0.2828;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Rostelecom;ISDN-Refile;ISDN;;;0.1090;0.4244;0.4244;0.0000;0.3154;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Tele2 SVERIGE AB;ISDN-Refile;ISDN;;;0.1090;0.4040;0.4780;0.0740;0.3690;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telefonica O2 Czech Republic. a.s.;ISDN-Refile;ISDN;;;0.1090;0.4032;0.4032;0.0000;0.2942;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telenor Global Services AS;ISDN-Refile;ISDN;;;0.1090;0.4440;0.4440;0.0000;0.3350;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;iBasis Netherlands B.V.;ISDN-Refile;ISDN;;;0.1090;0.3880;0.3880;0.0000;0.2790;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;AAA-wiau;Origin Product;ISDN;;;0.1090;0.9634;0.9634;0.0000;0.8544;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;COLT Telecom GmbH;PRM-REFILE;ISDN;;;0.1090;0.3892;0.3892;0.0000;0.2802;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Optimus Ltd;Premium Refile;ISDN;;;0.1090;0.8000;0.8000;0.0000;0.6910;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Belgacom International Carrier Services SA;Premium-BICS-Refile;ISDN;;;0.1090;0.6000;0.6000;0.0000;0.4910;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Cube Communication Ltd.;Premium-Refile;ISDN;;;0.1090;0.3976;0.3976;0.0000;0.2886;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Elisa Corporation;Premium-Refile;ISDN;;;0.1090;0.4000;0.4000;0.0000;0.2910;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Hutchinson Global Communications Limited;Premium-Refile;ISDN;;;0.1090;0.4376;0.4376;0.0000;0.3286;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;MTT;Premium-Refile;ISDN;;;0.1090;0.6668;0.6668;0.0000;0.5578;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Romtelecom;Premium-Refile;ISDN;;;0.1090;0.3918;0.3918;0.0000;0.2828;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Rostelecom;Premium-Refile;ISDN;;;0.1090;0.4248;0.4248;0.0000;0.3158;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telecom Italia Sparkle;Premium-Refile;ISDN;;;0.1090;0.3880;0.3880;0.0000;0.2790;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;iBasis Netherlands B.V.;Premium-Refile;ISDN;;;0.1090;0.3880;0.3880;0.0000;0.2790;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telenor Global Services AS;Prm-Refile;ISDN;;;0.1090;0.4180;0.4180;0.0000;0.3090;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;PRIMETEL LTD;Standard Refile;ISDN;;;0.1090;0.3922;0.3922;0.0000;0.2832;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;SURFCREEK COMMUNICATIONS INC.;Standard Refile;ISDN;;;0.1090;0.4180;0.4180;0.0000;0.3090;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;A1 Telekom Austria AG;Standard-Refile;ISDN;;;0.1090;0.3920;0.3920;0.0000;0.2830;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Akton Telekomunikacijski inzeniring d.o.o.;Standard-Refile;ISDN;;;0.1090;0.4058;0.4058;0.0000;0.2968;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);Standard-Refile;ISDN;;;0.1090;0.4030;0.4030;0.0000;0.2940;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;France Telecom;Standard-Refile;ISDN;;;0.1090;0.4250;0.4250;0.0000;0.3160;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;KDDI Europe Ltd;Standard-Refile;ISDN;;;0.1090;0.2366;0.2366;0.0000;0.1276;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;OTEGLOBE;Standard-Refile;ISDN;;;0.1090;0.3950;0.3950;0.0000;0.2860;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Rostelecom;Standard-Refile;ISDN;;;0.1090;0.4212;0.4212;0.0000;0.3122;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Tele2 SVERIGE AB;Standard-Refile;ISDN;;;0.1090;0.4040;0.4780;0.0740;0.3690;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telefonica O2 Czech Republic. a.s.;Standard-Refile;ISDN;;;0.1090;0.4032;0.4032;0.0000;0.2942;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telekomunikacja Polska;Standard-Refile;ISDN;;;0.1090;0.3818;0.3818;0.0000;0.2728;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telekom Slovenija;ZAPORA;ISDN;;;0.1090;200.0000;200.0000;0.0000;199.8910;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+South Africa;System One;CC;ISDN;;;0.1090;0.1484;0.1786;0.0302;0.0696;High Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Deutsche Telekom;DTX_SP;ISDN;;;0.1090;0.5766;0.5766;0.0000;0.4676;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;PRIMUS;ISDN Refile;ISDN;;;0.1090;0.0456;0.0456;0.0000;-0.0634;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;SURFCREEK COMMUNICATIONS INC.;ISDN Refile;ISDN;;;0.1090;0.2238;0.0642;-0.1596;-0.0448;Low Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Vox Mundi;ISDN Refile;ISDN;;;0.1090;0.1365;0.0395;-0.0970;-0.0695;Low Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Tata communications (Canada) ULC;ISDN-Prm-Refile;ISDN;;;0.1090;0.7596;0.7596;0.0000;0.6506;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;COLT Telecom GmbH;ISDN-REFILE;ISDN;;;0.1090;0.0514;0.0366;-0.0148;-0.0724;Low Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;BerMosCom GmbH;ISDN-Refile;ISDN;;;0.1090;0.0514;0.0514;0.0000;-0.0576;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);ISDN-Refile;ISDN;;;0.1090;0.0374;0.0374;0.0000;-0.0716;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;KDDI Europe Ltd;ISDN-Refile;ISDN;;;0.1090;0.0400;0.0400;0.0000;-0.0690;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Star Communication;ISDN-Refile;ISDN;;;0.1090;0.1504;0.1504;0.0000;0.0414;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Teltac World Wide Inc.SAL;ISDN-Refile;ISDN;;;0.1090;0.0526;0.0520;-0.0006;-0.0570;Low Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Verizon Business;ISDN-Refile;ISDN;;;0.1090;0.9212;0.9212;0.0000;0.8122;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;WIS INTERNATIONAL SERVICES S.p.A;ISDN-Refile;ISDN;;;0.1090;0.0800;0.2400;0.1600;0.1310;High Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;iBasis Netherlands B.V.;ISDN-Refile;ISDN;;;0.1090;0.3018;0.3018;0.0000;0.1928;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Tata communications (Canada) ULC;ISDN-Std-Refile;ISDN;;;0.1090;0.7512;0.7512;0.0000;0.6422;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;UNIFI Communications. INC;ISDN-refile;ISDN;;;0.1090;0.1193;0.1193;0.0000;0.0103;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;COLT Telecom GmbH;PRM-REFILE;ISDN;;;0.1090;0.0514;0.0366;-0.0148;-0.0724;Low Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Optimus Ltd;Premium Refile;ISDN;;;0.1090;0.0450;0.0450;0.0000;-0.0640;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Tata communications (Canada) ULC;Premium-Refile;ISDN;;;0.1090;0.7596;0.7596;0.0000;0.6506;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;WIS INTERNATIONAL SERVICES S.p.A;Premium-Refile;ISDN;;;0.1090;0.0800;0.2400;0.1600;0.1310;High Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;iBasis Netherlands B.V.;Premium-Refile;ISDN;;;0.1090;0.3018;0.3018;0.0000;0.1928;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;brendan;SPBrendan;ISDN;;;0.1090;1.9700;1.1504;-0.8196;1.0414;Low Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;PRIMUS;Standard Refile;ISDN;;;0.1090;0.0456;0.0456;0.0000;-0.0634;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;SURFCREEK COMMUNICATIONS INC.;Standard Refile;ISDN;;;0.1090;0.2238;0.0642;-0.1596;-0.0448;Low Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Vox Mundi;Standard Refile;ISDN;;;0.1090;0.1365;0.0395;-0.0970;-0.0695;Low Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;BerMosCom GmbH;Standard-Refile;ISDN;;;0.1090;0.0514;0.0514;0.0000;-0.0576;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);Standard-Refile;ISDN;;;0.1090;0.0374;0.0374;0.0000;-0.0716;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;KDDI Europe Ltd;Standard-Refile;ISDN;;;0.1090;0.0400;0.0400;0.0000;-0.0690;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Star Communication;Standard-Refile;ISDN;;;0.1090;0.1504;0.1504;0.0000;0.0414;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Tata communications (Canada) ULC;Standard-Refile;ISDN;;;0.1090;0.7512;0.7512;0.0000;0.6422;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Teltac World Wide Inc.SAL;Standard-Refile;ISDN;;;0.1090;0.0526;0.0520;-0.0006;-0.0570;Low Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;Verizon Business;Standard-Refile;ISDN;;;0.1090;0.9212;0.9212;0.0000;0.8122;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;UNIFI Communications. INC;Standard-refile;ISDN;;;0.1090;0.1193;0.1193;0.0000;0.0103;Equal Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;vodafone_kalpit_test;Vodafone_kalpit_premium;ISDN;;;0.1090;0.3234;0.2933;-0.0301;0.1843;Low Rate;5/23/2023;12/31/9999;Contact 24 Internal
+South Africa;ObakengTest;obakengTestSupplier;ISDN;;;0.1090;4.2666;0.5120;-3.7546;0.4030;Low Rate;5/23/2023;12/31/9999;Contact 24 Internal
+United Kingdom;AAA-wiau;A-Z Product;ISDN;;;0.0328;0.2207;0.2207;0.0000;0.1879;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Telekom Slovenija;DICT-ISDN;ISDN;;;0.0328;0.0002;0.0002;0.0000;-0.0326;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Telekom Slovenija;DICT-VOICE;ISDN;;;0.0328;0.0002;0.0002;0.0000;-0.0326;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;AAA-wiau;Full-Country Product;ISDN;;;0.0328;0.2207;0.2207;0.0000;0.1879;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;PRIMUS;ISDN Refile;ISDN;;;0.0328;13.9780;13.9780;0.0000;13.9452;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;COLT Telecom GmbH;ISDN-REFILE;ISDN;;;0.0328;0.0092;0.0092;0.0000;-0.0236;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Bezeq International Ltd;ISDN-Refile;ISDN;;;0.0328;0.0156;0.0176;0.0020;-0.0152;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Bulgarian Telecommunications Company PLC;ISDN-Refile;ISDN;;;0.0328;0.0140;0.3960;0.3820;0.3632;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Elisa Corporation;ISDN-Refile;ISDN;;;0.0328;0.0152;0.3886;0.3734;0.3558;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;KOC;ISDN-Refile;ISDN;;;0.0328;0.2782;0.2782;0.0000;0.2454;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Tele2 SVERIGE AB;ISDN-Refile;ISDN;;;0.0328;0.2300;0.2300;0.0000;0.1972;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;UNIFI Communications. INC;ISDN-refile;ISDN;;;0.0328;0.1435;0.1435;0.0000;0.1107;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;AAA-wiau;Origin Product;ISDN;;;0.0328;0.2207;0.2207;0.0000;0.1879;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;COLT Telecom GmbH;PRM-REFILE;ISDN;;;0.0328;0.0092;0.0092;0.0000;-0.0236;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Optimus Ltd;Premium Refile;ISDN;;;0.0328;0.5000;0.5000;0.0000;0.4672;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Bezeq International Ltd;Premium-Refile;ISDN;;;0.0328;0.0156;0.0176;0.0020;-0.0152;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Cube Communication Ltd.;Premium-Refile;ISDN;;;0.0328;0.0092;0.0092;0.0000;-0.0236;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Elisa Corporation;Premium-Refile;ISDN;;;0.0328;0.0152;0.3886;0.3734;0.3558;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;KOC;Premium-Refile;ISDN;;;0.0328;0.2782;0.2782;0.0000;0.2454;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;brendan;SPBrendan;ISDN;;;0.0328;1.4024;1.8800;0.4776;1.8472;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;PRIMUS;Standard Refile;ISDN;;;0.0328;13.9780;13.9780;0.0000;13.9452;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Bulgarian Telecommunications Company PLC;Standard-Refile;ISDN;;;0.0328;0.0140;0.3960;0.3820;0.3632;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Tele2 SVERIGE AB;Standard-Refile;ISDN;;;0.0328;0.2300;0.2300;0.0000;0.1972;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Telekomunikacja Polska;Standard-Refile;ISDN;;;0.0328;0.0096;0.0096;0.0000;-0.0232;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;UNIFI Communications. INC;Standard-refile;ISDN;;;0.0328;0.1435;0.1435;0.0000;0.1107;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;vodafone_kalpit_test;Vodafone_kalpit_premium;ISDN;;;0.0328;0.0055;0.0055;0.0000;-0.0273;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Telekom Slovenija;ZAPORA;ISDN;;;0.0328;200.0000;200.0000;0.0000;199.9672;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vox Mundi;Standard Refile;ISDN;100;1;0.4768;0.1014;0.1014;0.0000;-0.3754;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Verizon Business;Standard-Refile;ISDN;;2;0.4768;0.1230;0.1230;0.0000;-0.3538;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;AAA-wiau;A-Z Product;ISDN;;;0.4768;0.6591;0.6591;0.0000;0.1823;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Deutsche Telekom;DTX_SP;ISDN;;;0.4768;0.3400;0.3400;0.0000;-0.1368;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;AAA-wiau;Full-Country Product;ISDN;;;0.4768;0.6591;0.6591;0.0000;0.1823;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;D-COM SIA;ISDN Refile;ISDN;;;0.4768;0.4838;0.4838;0.0000;0.0070;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;LANCK Telecom;ISDN Refile;ISDN;;;0.4768;0.4380;0.4380;0.0000;-0.0388;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;PRIMUS;ISDN Refile;ISDN;;;0.4768;13.9780;13.9780;0.0000;13.5012;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;SURFCREEK COMMUNICATIONS INC.;ISDN Refile;ISDN;;;0.4768;0.4540;0.4540;0.0000;-0.0228;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vox  Telecom;ISDN Refile;ISDN;;;0.4768;0.3400;0.4000;0.0600;-0.0768;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vox Mundi;ISDN Refile;ISDN;;;0.4768;0.1014;0.1014;0.0000;-0.3754;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Belgacom International Carrier Services SA;ISDN-BICS-Refile;ISDN;;;0.4768;1.2400;1.2400;0.0000;0.7632;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tata communications (Canada) ULC;ISDN-Prm-Refile;ISDN;;;0.4768;0.2390;0.2390;0.0000;-0.2378;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telecom Italia Sparkle;ISDN-Prm-Refile;ISDN;;;0.4768;1.2000;1.2000;0.0000;0.7232;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;COLT Telecom GmbH;ISDN-REFILE;ISDN;;;0.4768;0.3080;0.3080;0.0000;-0.1688;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;A1 Telekom Austria AG;ISDN-Refile;ISDN;;;0.4768;0.2720;0.2720;0.0000;-0.2048;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;ATT Corporation;ISDN-Refile;ISDN;;;0.4768;0.2090;0.2090;0.0000;-0.2678;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Akton Telekomunikacijski inzeniring d.o.o.;ISDN-Refile;ISDN;;;0.4768;0.2140;0.2140;0.0000;-0.2628;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Bezeq International Ltd;ISDN-Refile;ISDN;;;0.4768;0.2686;0.2686;0.0000;-0.2082;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Bulgarian Telecommunications Company PLC;ISDN-Refile;ISDN;;;0.4768;0.3960;0.3960;0.0000;-0.0808;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);ISDN-Refile;ISDN;;;0.4768;0.2242;0.2242;0.0000;-0.2526;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Elisa Corporation;ISDN-Refile;ISDN;;;0.4768;0.3518;0.3518;0.0000;-0.1250;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;France Telecom;ISDN-Refile;ISDN;;;0.4768;0.9700;0.9700;0.0000;0.4932;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Hutchinson Global Communications Limited;ISDN-Refile;ISDN;;;0.4768;0.2980;0.2980;0.0000;-0.1788;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;IT TEL;ISDN-Refile;ISDN;;;0.4768;0.5100;0.5100;0.0000;0.0332;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;KDDI Europe Ltd;ISDN-Refile;ISDN;;;0.4768;0.2130;0.2130;0.0000;-0.2638;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;KOC;ISDN-Refile;ISDN;;;0.4768;0.3159;0.3159;0.0000;-0.1609;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;OTEGLOBE;ISDN-Refile;ISDN;;;0.4768;0.2700;0.2700;0.0000;-0.2068;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Pantel International AG;ISDN-Refile;ISDN;;;0.4768;1.2000;1.2000;0.0000;0.7232;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Romtelecom;ISDN-Refile;ISDN;;;0.4768;0.5082;0.5082;0.0000;0.0314;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Rostelecom;ISDN-Refile;ISDN;;;0.4768;0.2508;0.2508;0.0000;-0.2260;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Star Communication;ISDN-Refile;ISDN;;;0.4768;0.2298;0.2298;0.0000;-0.2470;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;T-Hrvatski Telekom;ISDN-Refile;ISDN;;;0.4768;0.4200;0.4200;0.0000;-0.0568;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;TDC Switzerland AG;ISDN-Refile;ISDN;;;0.4768;0.2748;0.3454;0.0706;-0.1314;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tele2 SVERIGE AB;ISDN-Refile;ISDN;;;0.4768;0.2690;0.2690;0.0000;-0.2078;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telefonica O2 Czech Republic. a.s.;ISDN-Refile;ISDN;;;0.4768;0.2752;0.2752;0.0000;-0.2016;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telekom Srbija a.d.;ISDN-Refile;ISDN;;;0.4768;0.2600;0.2600;0.0000;-0.2168;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telenor Global Services AS;ISDN-Refile;ISDN;;;0.4768;0.4148;0.4148;0.0000;-0.0620;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;TeliaSonera International Carrier AB;ISDN-Refile;ISDN;;;0.4768;0.3960;0.3960;0.0000;-0.0808;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Teltac World Wide Inc.SAL;ISDN-Refile;ISDN;;;0.4768;0.2000;0.2000;0.0000;-0.2768;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Verizon Business;ISDN-Refile;ISDN;;;0.4768;0.1230;0.1230;0.0000;-0.3538;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vodafone D2 GmbH;ISDN-Refile;ISDN;;;0.4768;0.2646;0.2646;0.0000;-0.2122;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;WIS INTERNATIONAL SERVICES S.p.A;ISDN-Refile;ISDN;;;0.4768;1.2000;1.2000;0.0000;0.7232;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;iBasis Netherlands B.V.;ISDN-Refile;ISDN;;;0.4768;0.3918;0.3918;0.0000;-0.0850;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tata communications (Canada) ULC;ISDN-Std-Refile;ISDN;;;0.4768;0.2158;0.2158;0.0000;-0.2610;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;UNIFI Communications. INC;ISDN-refile;ISDN;;;0.4768;0.4141;0.4141;0.0000;-0.0627;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;AAA-wiau;Origin Product;ISDN;;;0.4768;0.6591;0.6591;0.0000;0.1823;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;COLT Telecom GmbH;PRM-REFILE;ISDN;;;0.4768;0.3080;0.3080;0.0000;-0.1688;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Optimus Ltd;Premium Refile;ISDN;;;0.4768;0.5000;0.5000;0.0000;0.0232;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Bezeq International Ltd;Premium-Refile;ISDN;;;0.4768;0.2686;0.2686;0.0000;-0.2082;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Cube Communication Ltd.;Premium-Refile;ISDN;;;0.4768;0.2646;0.2646;0.0000;-0.2122;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Elisa Corporation;Premium-Refile;ISDN;;;0.4768;0.3518;0.3518;0.0000;-0.1250;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Hutchinson Global Communications Limited;Premium-Refile;ISDN;;;0.4768;0.2980;0.2980;0.0000;-0.1788;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;IT TEL;Premium-Refile;ISDN;;;0.4768;0.5100;0.5100;0.0000;0.0332;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;KOC;Premium-Refile;ISDN;;;0.4768;0.3159;0.3159;0.0000;-0.1609;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;MTT;Premium-Refile;ISDN;;;0.4768;0.3802;0.3802;0.0000;-0.0966;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Romtelecom;Premium-Refile;ISDN;;;0.4768;0.5082;0.5082;0.0000;0.0314;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Rostelecom;Premium-Refile;ISDN;;;0.4768;0.2510;0.2510;0.0000;-0.2258;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;T-Hrvatski Telekom;Premium-Refile;ISDN;;;0.4768;0.4200;0.4200;0.0000;-0.0568;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tata communications (Canada) ULC;Premium-Refile;ISDN;;;0.4768;0.2390;0.2390;0.0000;-0.2378;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telecom Italia Sparkle;Premium-Refile;ISDN;;;0.4768;0.3000;0.3000;0.0000;-0.1768;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telekom Srbija a.d.;Premium-Refile;ISDN;;;0.4768;0.2600;0.2600;0.0000;-0.2168;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;TeliaSonera International Carrier AB;Premium-Refile;ISDN;;;0.4768;0.3960;0.3960;0.0000;-0.0808;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vodafone D2 GmbH;Premium-Refile;ISDN;;;0.4768;0.2646;0.2646;0.0000;-0.2122;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;WIS INTERNATIONAL SERVICES S.p.A;Premium-Refile;ISDN;;;0.4768;1.2000;1.2000;0.0000;0.7232;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;iBasis Netherlands B.V.;Premium-Refile;ISDN;;;0.4768;0.3918;0.3918;0.0000;-0.0850;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telenor Global Services AS;Prm-Refile;ISDN;;;0.4768;0.4148;0.4148;0.0000;-0.0620;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;ATT Corporation;Refile-Premium;ISDN;;;0.4768;0.2090;0.2090;0.0000;-0.2678;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;brendan;SPBrendan;ISDN;;;0.4768;1.9904;1.9904;0.0000;1.5136;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;LANCK Telecom;Standard Refile;ISDN;;;0.4768;0.4380;0.4380;0.0000;-0.0388;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;PRIMUS;Standard Refile;ISDN;;;0.4768;13.9780;13.9780;0.0000;13.5012;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;SURFCREEK COMMUNICATIONS INC.;Standard Refile;ISDN;;;0.4768;0.4540;0.4540;0.0000;-0.0228;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vox  Telecom;Standard Refile;ISDN;;;0.4768;0.3400;0.4000;0.0600;-0.0768;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;D-COM SIA;Standard refile;ISDN;;;0.4768;0.4838;0.4838;0.0000;0.0070;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;GTS CZECH s.r.o.;Standard-ISDN-Refile;ISDN;;;0.4768;0.2554;0.2554;0.0000;-0.2214;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;A1 Telekom Austria AG;Standard-Refile;ISDN;;;0.4768;0.2720;0.2720;0.0000;-0.2048;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Akton Telekomunikacijski inzeniring d.o.o.;Standard-Refile;ISDN;;;0.4768;0.2140;0.2140;0.0000;-0.2628;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Bulgarian Telecommunications Company PLC;Standard-Refile;ISDN;;;0.4768;0.3960;0.3960;0.0000;-0.0808;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);Standard-Refile;ISDN;;;0.4768;0.2242;0.2242;0.0000;-0.2526;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;France Telecom;Standard-Refile;ISDN;;;0.4768;0.2692;0.2692;0.0000;-0.2076;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;GTS CZECH s.r.o.;Standard-Refile;ISDN;;;0.4768;0.2554;0.2554;0.0000;-0.2214;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;KDDI Europe Ltd;Standard-Refile;ISDN;;;0.4768;0.2130;0.2130;0.0000;-0.2638;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;OTEGLOBE;Standard-Refile;ISDN;;;0.4768;0.2600;0.2600;0.0000;-0.2168;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Pantel International AG;Standard-Refile;ISDN;;;0.4768;1.2000;1.2000;0.0000;0.7232;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Rostelecom;Standard-Refile;ISDN;;;0.4768;0.6013;0.6013;0.0000;0.1245;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Star Communication;Standard-Refile;ISDN;;;0.4768;0.2298;0.2298;0.0000;-0.2470;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;TDC Switzerland AG;Standard-Refile;ISDN;;;0.4768;0.1820;0.1820;0.0000;-0.2948;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tata communications (Canada) ULC;Standard-Refile;ISDN;;;0.4768;0.2158;0.2158;0.0000;-0.2610;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tele2 SVERIGE AB;Standard-Refile;ISDN;;;0.4768;0.2690;0.2690;0.0000;-0.2078;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telefonica O2 Czech Republic. a.s.;Standard-Refile;ISDN;;;0.4768;0.2752;0.2752;0.0000;-0.2016;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telekomunikacja Polska;Standard-Refile;ISDN;;;0.4768;0.1896;0.1896;0.0000;-0.2872;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Teltac World Wide Inc.SAL;Standard-Refile;ISDN;;;0.4768;0.2000;0.2000;0.0000;-0.2768;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;UNIFI Communications. INC;Standard-refile;ISDN;;;0.4768;0.4141;0.4141;0.0000;-0.0627;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;vodafone_kalpit_test;Vodafone_kalpit_premium;ISDN;;;0.4768;0.5166;0.5166;0.0000;0.0398;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telekom Slovenija;ZAPORA;ISDN;;;0.4768;200.0000;200.0000;0.0000;199.5232;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;ObakengTest;obakengTestSupplier;ISDN;;;0.4768;0.3460;0.3460;0.0000;-0.1308;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+Albania x;Vox Mundi;ISDN Refile;Premium;;;0.2560;0.3262;0.3262;0.0000;0.0702;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Akton Telekomunikacijski inzeniring d.o.o.;ISDN-Refile;Premium;;;0.2560;0.3020;0.3020;0.0000;0.0460;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Pantel International AG;ISDN-Refile;Premium;;;0.2560;0.3040;0.3040;0.0000;0.0480;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Romtelecom;ISDN-Refile;Premium;;;0.2560;0.2842;0.8000;0.5158;0.5440;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;T-Hrvatski Telekom;ISDN-Refile;Premium;;;0.2560;0.3400;1.6000;1.2600;1.3440;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telefonica O2 Czech Republic. a.s.;ISDN-Refile;Premium;;;0.2560;0.3090;0.3090;0.0000;0.0530;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telenor Global Services AS;ISDN-Refile;Premium;;;0.2560;0.3136;0.3136;0.0000;0.0576;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;TeliaSonera International Carrier AB;ISDN-Refile;Premium;;;0.2560;0.2480;0.2480;0.0000;-0.0080;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Vodafone D2 GmbH;ISDN-Refile;Premium;;;0.2560;0.2868;0.8016;0.5148;0.5456;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;UNIFI Communications. INC;ISDN-refile;Premium;;;0.2560;0.3018;0.8058;0.5040;0.5498;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Romtelecom;Premium-Refile;Premium;;;0.2560;0.2842;0.8000;0.5158;0.5440;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;T-Hrvatski Telekom;Premium-Refile;Premium;;;0.2560;0.3400;1.6000;1.2600;1.3440;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;TeliaSonera International Carrier AB;Premium-Refile;Premium;;;0.2560;0.2480;0.2480;0.0000;-0.0080;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Vodafone D2 GmbH;Premium-Refile;Premium;;;0.2560;0.2868;0.8016;0.5148;0.5456;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telenor Global Services AS;Prm-Refile;Premium;;;0.2560;0.3136;0.3136;0.0000;0.0576;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Vox Mundi;Standard Refile;Premium;;;0.2560;0.3262;0.3262;0.0000;0.0702;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Akton Telekomunikacijski inzeniring d.o.o.;Standard-Refile;Premium;;;0.2560;0.3020;0.3020;0.0000;0.0460;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Pantel International AG;Standard-Refile;Premium;;;0.2560;0.3040;0.3040;0.0000;0.0480;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;TDC Switzerland AG;Standard-Refile;Premium;;;0.2560;0.1480;0.7800;0.6320;0.5240;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telefonica O2 Czech Republic. a.s.;Standard-Refile;Premium;;;0.2560;0.3090;0.3090;0.0000;0.0530;Equal Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;UNIFI Communications. INC;Standard-refile;Premium;;;0.2560;0.3018;0.8058;0.5040;0.5498;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telekom Slovenija - SiOL;VoIP-ISDN-Refile;Premium;;;0.2560;0.0537;0.7300;0.6763;0.4740;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Albania x;Telekom Slovenija - SiOL;VoIP-Refile;Premium;;;0.2560;0.0537;0.7300;0.6763;0.4740;High Rate;8/29/2023;12/31/9999;Contact 24 Internal
+Estonia-EMT;iBasis Netherlands B.V.;Premium-Refile;Premium;;2;0.1390;0.1530;0.4406;0.2876;0.3016;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;SURFCREEK COMMUNICATIONS INC.;ISDN Refile;Premium;;;0.1390;0.4180;0.4180;0.0000;0.2790;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);ISDN-Refile;Premium;;;0.1390;0.1604;0.1604;0.0000;0.0214;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Elisa Corporation;ISDN-Refile;Premium;;;0.1390;0.1610;0.4000;0.2390;0.2610;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;IXC Global Inc.;ISDN-Refile;Premium;;;0.1390;0.4643;0.4643;0.0000;0.3253;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Pantel International AG;ISDN-Refile;Premium;;;0.1390;0.3960;0.4180;0.0220;0.2790;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;TDC Switzerland AG;ISDN-Refile;Premium;;;0.1390;0.1636;0.4040;0.2404;0.2650;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Telenor Global Services AS;ISDN-Refile;Premium;;;0.1390;0.2600;0.4440;0.1840;0.3050;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Teltac World Wide Inc.SAL;ISDN-Refile;Premium;;;0.1390;0.3836;0.3836;0.0000;0.2446;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Vodafone D2 GmbH;ISDN-Refile;Premium;;;0.1390;0.1686;0.4368;0.2682;0.2978;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;iBasis Netherlands B.V.;ISDN-Refile;Premium;;;0.1390;0.1530;0.4406;0.2876;0.3016;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Elisa Corporation;Premium-Refile;Premium;;;0.1390;0.1610;0.4000;0.2390;0.2610;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;MTT;Premium-Refile;Premium;;;0.1390;0.6668;0.6668;0.0000;0.5278;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Vodafone D2 GmbH;Premium-Refile;Premium;;;0.1390;0.1686;0.4368;0.2682;0.2978;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Telenor Global Services AS;Prm-Refile;Premium;;;0.1390;0.1738;0.4180;0.2442;0.2790;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;SURFCREEK COMMUNICATIONS INC.;Standard Refile;Premium;;;0.1390;0.4180;0.4180;0.0000;0.2790;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;GTS CZECH s.r.o.;Standard-ISDN-Refile;Premium;;;0.1390;0.1736;0.3836;0.2100;0.2446;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);Standard-Refile;Premium;;;0.1390;0.1604;0.1604;0.0000;0.0214;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;GTS CZECH s.r.o.;Standard-Refile;Premium;;;0.1390;0.1736;0.3836;0.2100;0.2446;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;IXC Global Inc.;Standard-Refile;Premium;;;0.1390;0.4643;0.4643;0.0000;0.3253;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Pantel International AG;Standard-Refile;Premium;;;0.1390;0.3960;0.4180;0.0220;0.2790;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Rostelecom;Standard-Refile;Premium;;;0.1390;0.3732;0.4212;0.0480;0.2822;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;TDC Switzerland AG;Standard-Refile;Premium;;;0.1390;0.3874;0.3874;0.0000;0.2484;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-EMT;Teltac World Wide Inc.SAL;Standard-Refile;Premium;;;0.1390;0.3836;0.3836;0.0000;0.2446;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;KYIVSTAR JSC.;Standard Refile;Premium;100;1;0.3800;0.3800;0.3800;0.0000;0.0000;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;LANCK Telecom;Standard Refile;Premium;;4;0.3800;0.3840;0.3840;0.0000;0.0040;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;AAA-wiau;A-Z Product;Premium;;;0.3800;0.9634;0.9634;0.0000;0.5834;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telekom Slovenija;DICT-ISDN;Premium;;;0.3800;0.0002;0.0002;0.0000;-0.3798;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telekom Slovenija;DICT-VOICE;Premium;;;0.3800;0.0002;0.0002;0.0000;-0.3798;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;AAA-wiau;Full-Country Product;Premium;;;0.3800;0.9634;0.9634;0.0000;0.5834;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;KYIVSTAR JSC.;ISDN Refile;Premium;;;0.3800;0.3800;0.3800;0.0000;0.0000;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;LANCK Telecom;ISDN Refile;Premium;;;0.3800;0.3840;0.3840;0.0000;0.0040;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;PRIMETEL LTD;ISDN Refile;Premium;;;0.3800;0.3922;0.3922;0.0000;0.0122;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;SURFCREEK COMMUNICATIONS INC.;ISDN Refile;Premium;;;0.3800;0.4180;0.4180;0.0000;0.0380;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telecom Italia Sparkle;ISDN-Prm-Refile;Premium;;;0.3800;0.5144;0.5144;0.0000;0.1344;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;COLT Telecom GmbH;ISDN-REFILE;Premium;;;0.3800;0.3892;0.3892;0.0000;0.0092;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;A1 Telekom Austria AG;ISDN-Refile;Premium;;;0.3800;0.3920;0.3920;0.0000;0.0120;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Akton Telekomunikacijski inzeniring d.o.o.;ISDN-Refile;Premium;;;0.3800;0.4058;0.4058;0.0000;0.0258;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);ISDN-Refile;Premium;;;0.3800;0.4030;0.4030;0.0000;0.0230;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Elisa Corporation;ISDN-Refile;Premium;;;0.3800;0.4000;0.4000;0.0000;0.0200;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Hutchinson Global Communications Limited;ISDN-Refile;Premium;;;0.3800;0.4376;0.4376;0.0000;0.0576;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;KDDI Europe Ltd;ISDN-Refile;Premium;;;0.3800;0.2366;0.2366;0.0000;-0.1434;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;OTEGLOBE;ISDN-Refile;Premium;;;0.3800;0.3950;0.3950;0.0000;0.0150;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Romtelecom;ISDN-Refile;Premium;;;0.3800;0.3918;0.3918;0.0000;0.0118;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Rostelecom;ISDN-Refile;Premium;;;0.3800;0.4244;0.4244;0.0000;0.0444;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Tele2 SVERIGE AB;ISDN-Refile;Premium;;;0.3800;0.4040;0.4780;0.0740;0.0980;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telefonica O2 Czech Republic. a.s.;ISDN-Refile;Premium;;;0.3800;0.4032;0.4032;0.0000;0.0232;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telenor Global Services AS;ISDN-Refile;Premium;;;0.3800;0.4440;0.4440;0.0000;0.0640;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;iBasis Netherlands B.V.;ISDN-Refile;Premium;;;0.3800;0.3880;0.3880;0.0000;0.0080;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;AAA-wiau;Origin Product;Premium;;;0.3800;0.9634;0.9634;0.0000;0.5834;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;COLT Telecom GmbH;PRM-REFILE;Premium;;;0.3800;0.3892;0.3892;0.0000;0.0092;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Optimus Ltd;Premium Refile;Premium;;;0.3800;0.8000;0.8000;0.0000;0.4200;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Belgacom International Carrier Services SA;Premium-BICS-Refile;Premium;;;0.3800;0.6000;0.6000;0.0000;0.2200;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Cube Communication Ltd.;Premium-Refile;Premium;;;0.3800;0.3976;0.3976;0.0000;0.0176;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Elisa Corporation;Premium-Refile;Premium;;;0.3800;0.4000;0.4000;0.0000;0.0200;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Hutchinson Global Communications Limited;Premium-Refile;Premium;;;0.3800;0.4376;0.4376;0.0000;0.0576;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;MTT;Premium-Refile;Premium;;;0.3800;0.6668;0.6668;0.0000;0.2868;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Romtelecom;Premium-Refile;Premium;;;0.3800;0.3918;0.3918;0.0000;0.0118;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Rostelecom;Premium-Refile;Premium;;;0.3800;0.4248;0.4248;0.0000;0.0448;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telecom Italia Sparkle;Premium-Refile;Premium;;;0.3800;0.3880;0.3880;0.0000;0.0080;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;iBasis Netherlands B.V.;Premium-Refile;Premium;;;0.3800;0.3880;0.3880;0.0000;0.0080;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telenor Global Services AS;Prm-Refile;Premium;;;0.3800;0.4180;0.4180;0.0000;0.0380;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;PRIMETEL LTD;Standard Refile;Premium;;;0.3800;0.3922;0.3922;0.0000;0.0122;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;SURFCREEK COMMUNICATIONS INC.;Standard Refile;Premium;;;0.3800;0.4180;0.4180;0.0000;0.0380;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;A1 Telekom Austria AG;Standard-Refile;Premium;;;0.3800;0.3920;0.3920;0.0000;0.0120;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Akton Telekomunikacijski inzeniring d.o.o.;Standard-Refile;Premium;;;0.3800;0.4058;0.4058;0.0000;0.0258;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);Standard-Refile;Premium;;;0.3800;0.4030;0.4030;0.0000;0.0230;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;France Telecom;Standard-Refile;Premium;;;0.3800;0.4250;0.4250;0.0000;0.0450;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;KDDI Europe Ltd;Standard-Refile;Premium;;;0.3800;0.2366;0.2366;0.0000;-0.1434;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;OTEGLOBE;Standard-Refile;Premium;;;0.3800;0.3950;0.3950;0.0000;0.0150;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Rostelecom;Standard-Refile;Premium;;;0.3800;0.4212;0.4212;0.0000;0.0412;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Tele2 SVERIGE AB;Standard-Refile;Premium;;;0.3800;0.4040;0.4780;0.0740;0.0980;High Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telefonica O2 Czech Republic. a.s.;Standard-Refile;Premium;;;0.3800;0.4032;0.4032;0.0000;0.0232;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telekomunikacja Polska;Standard-Refile;Premium;;;0.3800;0.3818;0.3818;0.0000;0.0018;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+Estonia-Other2;Telekom Slovenija;ZAPORA;Premium;;;0.3800;200.0000;200.0000;0.0000;199.6200;Equal Rate;8/29/2023;12/31/9999;Contact 5 Internal
+South Africa;System One;CC;Premium;;;0.0900;0.1484;0.1786;0.0302;0.0886;High Rate;5/23/2023;12/31/9999;
+South Africa;Deutsche Telekom;DTX_SP;Premium;;;0.0900;0.5766;0.5766;0.0000;0.4866;Equal Rate;5/23/2023;12/31/9999;
+South Africa;PRIMUS;ISDN Refile;Premium;;;0.0900;0.0456;0.0456;0.0000;-0.0444;Equal Rate;5/23/2023;12/31/9999;
+South Africa;SURFCREEK COMMUNICATIONS INC.;ISDN Refile;Premium;;;0.0900;0.2238;0.0642;-0.1596;-0.0258;Low Rate;5/23/2023;12/31/9999;
+South Africa;Vox Mundi;ISDN Refile;Premium;;;0.0900;0.1365;0.0395;-0.0970;-0.0505;Low Rate;5/23/2023;12/31/9999;
+South Africa;Tata communications (Canada) ULC;ISDN-Prm-Refile;Premium;;;0.0900;0.7596;0.7596;0.0000;0.6696;Equal Rate;5/23/2023;12/31/9999;
+South Africa;COLT Telecom GmbH;ISDN-REFILE;Premium;;;0.0900;0.0514;0.0366;-0.0148;-0.0534;Low Rate;5/23/2023;12/31/9999;
+South Africa;BerMosCom GmbH;ISDN-Refile;Premium;;;0.0900;0.0514;0.0514;0.0000;-0.0386;Equal Rate;5/23/2023;12/31/9999;
+South Africa;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);ISDN-Refile;Premium;;;0.0900;0.0374;0.0374;0.0000;-0.0526;Equal Rate;5/23/2023;12/31/9999;
+South Africa;KDDI Europe Ltd;ISDN-Refile;Premium;;;0.0900;0.0400;0.0400;0.0000;-0.0500;Equal Rate;5/23/2023;12/31/9999;
+South Africa;Star Communication;ISDN-Refile;Premium;;;0.0900;0.1504;0.1504;0.0000;0.0604;Equal Rate;5/23/2023;12/31/9999;
+South Africa;Teltac World Wide Inc.SAL;ISDN-Refile;Premium;;;0.0900;0.0526;0.0520;-0.0006;-0.0380;Low Rate;5/23/2023;12/31/9999;
+South Africa;Verizon Business;ISDN-Refile;Premium;;;0.0900;0.9212;0.9212;0.0000;0.8312;Equal Rate;5/23/2023;12/31/9999;
+South Africa;WIS INTERNATIONAL SERVICES S.p.A;ISDN-Refile;Premium;;;0.0900;0.0800;0.2400;0.1600;0.1500;High Rate;5/23/2023;12/31/9999;
+South Africa;iBasis Netherlands B.V.;ISDN-Refile;Premium;;;0.0900;0.3018;0.3018;0.0000;0.2118;Equal Rate;5/23/2023;12/31/9999;
+South Africa;Tata communications (Canada) ULC;ISDN-Std-Refile;Premium;;;0.0900;0.7512;0.7512;0.0000;0.6612;Equal Rate;5/23/2023;12/31/9999;
+South Africa;UNIFI Communications. INC;ISDN-refile;Premium;;;0.0900;0.1193;0.1193;0.0000;0.0293;Equal Rate;5/23/2023;12/31/9999;
+South Africa;COLT Telecom GmbH;PRM-REFILE;Premium;;;0.0900;0.0514;0.0366;-0.0148;-0.0534;Low Rate;5/23/2023;12/31/9999;
+South Africa;Optimus Ltd;Premium Refile;Premium;;;0.0900;0.0450;0.0450;0.0000;-0.0450;Equal Rate;5/23/2023;12/31/9999;
+South Africa;Tata communications (Canada) ULC;Premium-Refile;Premium;;;0.0900;0.7596;0.7596;0.0000;0.6696;Equal Rate;5/23/2023;12/31/9999;
+South Africa;WIS INTERNATIONAL SERVICES S.p.A;Premium-Refile;Premium;;;0.0900;0.0800;0.2400;0.1600;0.1500;High Rate;5/23/2023;12/31/9999;
+South Africa;iBasis Netherlands B.V.;Premium-Refile;Premium;;;0.0900;0.3018;0.3018;0.0000;0.2118;Equal Rate;5/23/2023;12/31/9999;
+South Africa;brendan;SPBrendan;Premium;;;0.0900;1.9700;1.1504;-0.8196;1.0604;Low Rate;5/23/2023;12/31/9999;
+South Africa;PRIMUS;Standard Refile;Premium;;;0.0900;0.0456;0.0456;0.0000;-0.0444;Equal Rate;5/23/2023;12/31/9999;
+South Africa;SURFCREEK COMMUNICATIONS INC.;Standard Refile;Premium;;;0.0900;0.2238;0.0642;-0.1596;-0.0258;Low Rate;5/23/2023;12/31/9999;
+South Africa;Vox Mundi;Standard Refile;Premium;;;0.0900;0.1365;0.0395;-0.0970;-0.0505;Low Rate;5/23/2023;12/31/9999;
+South Africa;BerMosCom GmbH;Standard-Refile;Premium;;;0.0900;0.0514;0.0514;0.0000;-0.0386;Equal Rate;5/23/2023;12/31/9999;
+South Africa;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);Standard-Refile;Premium;;;0.0900;0.0374;0.0374;0.0000;-0.0526;Equal Rate;5/23/2023;12/31/9999;
+South Africa;KDDI Europe Ltd;Standard-Refile;Premium;;;0.0900;0.0400;0.0400;0.0000;-0.0500;Equal Rate;5/23/2023;12/31/9999;
+South Africa;Star Communication;Standard-Refile;Premium;;;0.0900;0.1504;0.1504;0.0000;0.0604;Equal Rate;5/23/2023;12/31/9999;
+South Africa;Tata communications (Canada) ULC;Standard-Refile;Premium;;;0.0900;0.7512;0.7512;0.0000;0.6612;Equal Rate;5/23/2023;12/31/9999;
+South Africa;Teltac World Wide Inc.SAL;Standard-Refile;Premium;;;0.0900;0.0526;0.0520;-0.0006;-0.0380;Low Rate;5/23/2023;12/31/9999;
+South Africa;Verizon Business;Standard-Refile;Premium;;;0.0900;0.9212;0.9212;0.0000;0.8312;Equal Rate;5/23/2023;12/31/9999;
+South Africa;UNIFI Communications. INC;Standard-refile;Premium;;;0.0900;0.1193;0.1193;0.0000;0.0293;Equal Rate;5/23/2023;12/31/9999;
+South Africa;vodafone_kalpit_test;Vodafone_kalpit_premium;Premium;;;0.0900;0.3234;0.2933;-0.0301;0.2033;Low Rate;5/23/2023;12/31/9999;
+South Africa;ObakengTest;obakengTestSupplier;Premium;;;0.0900;4.2666;0.5120;-3.7546;0.4220;Low Rate;5/23/2023;12/31/9999;
+United Kingdom;AAA-wiau;A-Z Product;Premium;;;0.0066;0.2207;0.2207;0.0000;0.2141;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Telekom Slovenija;DICT-ISDN;Premium;;;0.0066;0.0002;0.0002;0.0000;-0.0064;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Telekom Slovenija;DICT-VOICE;Premium;;;0.0066;0.0002;0.0002;0.0000;-0.0064;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;AAA-wiau;Full-Country Product;Premium;;;0.0066;0.2207;0.2207;0.0000;0.2141;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;PRIMUS;ISDN Refile;Premium;;;0.0066;13.9780;13.9780;0.0000;13.9714;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;COLT Telecom GmbH;ISDN-REFILE;Premium;;;0.0066;0.0092;0.0092;0.0000;0.0026;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Bezeq International Ltd;ISDN-Refile;Premium;;;0.0066;0.0156;0.0176;0.0020;0.0110;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Bulgarian Telecommunications Company PLC;ISDN-Refile;Premium;;;0.0066;0.0140;0.3960;0.3820;0.3894;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Elisa Corporation;ISDN-Refile;Premium;;;0.0066;0.0152;0.3886;0.3734;0.3820;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;KOC;ISDN-Refile;Premium;;;0.0066;0.2782;0.2782;0.0000;0.2716;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Tele2 SVERIGE AB;ISDN-Refile;Premium;;;0.0066;0.2300;0.2300;0.0000;0.2234;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;UNIFI Communications. INC;ISDN-refile;Premium;;;0.0066;0.1435;0.1435;0.0000;0.1369;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;AAA-wiau;Origin Product;Premium;;;0.0066;0.2207;0.2207;0.0000;0.2141;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;COLT Telecom GmbH;PRM-REFILE;Premium;;;0.0066;0.0092;0.0092;0.0000;0.0026;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Optimus Ltd;Premium Refile;Premium;;;0.0066;0.5000;0.5000;0.0000;0.4934;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Bezeq International Ltd;Premium-Refile;Premium;;;0.0066;0.0156;0.0176;0.0020;0.0110;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Cube Communication Ltd.;Premium-Refile;Premium;;;0.0066;0.0092;0.0092;0.0000;0.0026;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Elisa Corporation;Premium-Refile;Premium;;;0.0066;0.0152;0.3886;0.3734;0.3820;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;KOC;Premium-Refile;Premium;;;0.0066;0.2782;0.2782;0.0000;0.2716;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;brendan;SPBrendan;Premium;;;0.0066;1.4024;1.8800;0.4776;1.8734;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;PRIMUS;Standard Refile;Premium;;;0.0066;13.9780;13.9780;0.0000;13.9714;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Bulgarian Telecommunications Company PLC;Standard-Refile;Premium;;;0.0066;0.0140;0.3960;0.3820;0.3894;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Tele2 SVERIGE AB;Standard-Refile;Premium;;;0.0066;0.2300;0.2300;0.0000;0.2234;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Telekomunikacja Polska;Standard-Refile;Premium;;;0.0066;0.0096;0.0096;0.0000;0.0030;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;UNIFI Communications. INC;Standard-refile;Premium;;;0.0066;0.1435;0.1435;0.0000;0.1369;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;vodafone_kalpit_test;Vodafone_kalpit_premium;Premium;;;0.0066;0.0055;0.0055;0.0000;-0.0011;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom;Telekom Slovenija;ZAPORA;Premium;;;0.0066;200.0000;200.0000;0.0000;199.9934;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vox Mundi;Standard Refile;Premium;100;1;0.1014;0.1014;0.1014;0.0000;0.0000;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Verizon Business;Standard-Refile;Premium;;2;0.1014;0.1230;0.1230;0.0000;0.0216;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;AAA-wiau;A-Z Product;Premium;;;0.1014;0.6591;0.6591;0.0000;0.5577;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Deutsche Telekom;DTX_SP;Premium;;;0.1014;0.3400;0.3400;0.0000;0.2386;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;AAA-wiau;Full-Country Product;Premium;;;0.1014;0.6591;0.6591;0.0000;0.5577;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;D-COM SIA;ISDN Refile;Premium;;;0.1014;0.4838;0.4838;0.0000;0.3824;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;LANCK Telecom;ISDN Refile;Premium;;;0.1014;0.4380;0.4380;0.0000;0.3366;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;PRIMUS;ISDN Refile;Premium;;;0.1014;13.9780;13.9780;0.0000;13.8766;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;SURFCREEK COMMUNICATIONS INC.;ISDN Refile;Premium;;;0.1014;0.4540;0.4540;0.0000;0.3526;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vox  Telecom;ISDN Refile;Premium;;;0.1014;0.3400;0.4000;0.0600;0.2986;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vox Mundi;ISDN Refile;Premium;;;0.1014;0.1014;0.1014;0.0000;0.0000;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Belgacom International Carrier Services SA;ISDN-BICS-Refile;Premium;;;0.1014;1.2400;1.2400;0.0000;1.1386;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tata communications (Canada) ULC;ISDN-Prm-Refile;Premium;;;0.1014;0.2390;0.2390;0.0000;0.1376;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telecom Italia Sparkle;ISDN-Prm-Refile;Premium;;;0.1014;1.2000;1.2000;0.0000;1.0986;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;COLT Telecom GmbH;ISDN-REFILE;Premium;;;0.1014;0.3080;0.3080;0.0000;0.2066;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;A1 Telekom Austria AG;ISDN-Refile;Premium;;;0.1014;0.2720;0.2720;0.0000;0.1706;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;ATT Corporation;ISDN-Refile;Premium;;;0.1014;0.2090;0.2090;0.0000;0.1076;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Akton Telekomunikacijski inzeniring d.o.o.;ISDN-Refile;Premium;;;0.1014;0.2140;0.2140;0.0000;0.1126;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Bezeq International Ltd;ISDN-Refile;Premium;;;0.1014;0.2686;0.2686;0.0000;0.1672;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Bulgarian Telecommunications Company PLC;ISDN-Refile;Premium;;;0.1014;0.3960;0.3960;0.0000;0.2946;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);ISDN-Refile;Premium;;;0.1014;0.2242;0.2242;0.0000;0.1228;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Elisa Corporation;ISDN-Refile;Premium;;;0.1014;0.3518;0.3518;0.0000;0.2504;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;France Telecom;ISDN-Refile;Premium;;;0.1014;0.9700;0.9700;0.0000;0.8686;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Hutchinson Global Communications Limited;ISDN-Refile;Premium;;;0.1014;0.2980;0.2980;0.0000;0.1966;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;IT TEL;ISDN-Refile;Premium;;;0.1014;0.5100;0.5100;0.0000;0.4086;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;KDDI Europe Ltd;ISDN-Refile;Premium;;;0.1014;0.2130;0.2130;0.0000;0.1116;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;KOC;ISDN-Refile;Premium;;;0.1014;0.3159;0.3159;0.0000;0.2145;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;OTEGLOBE;ISDN-Refile;Premium;;;0.1014;0.2700;0.2700;0.0000;0.1686;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Pantel International AG;ISDN-Refile;Premium;;;0.1014;1.2000;1.2000;0.0000;1.0986;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Romtelecom;ISDN-Refile;Premium;;;0.1014;0.5082;0.5082;0.0000;0.4068;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Rostelecom;ISDN-Refile;Premium;;;0.1014;0.2508;0.2508;0.0000;0.1494;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Star Communication;ISDN-Refile;Premium;;;0.1014;0.2298;0.2298;0.0000;0.1284;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;T-Hrvatski Telekom;ISDN-Refile;Premium;;;0.1014;0.4200;0.4200;0.0000;0.3186;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;TDC Switzerland AG;ISDN-Refile;Premium;;;0.1014;0.2748;0.3454;0.0706;0.2440;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tele2 SVERIGE AB;ISDN-Refile;Premium;;;0.1014;0.2690;0.2690;0.0000;0.1676;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telefonica O2 Czech Republic. a.s.;ISDN-Refile;Premium;;;0.1014;0.2752;0.2752;0.0000;0.1738;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telekom Srbija a.d.;ISDN-Refile;Premium;;;0.1014;0.2600;0.2600;0.0000;0.1586;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telenor Global Services AS;ISDN-Refile;Premium;;;0.1014;0.4148;0.4148;0.0000;0.3134;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;TeliaSonera International Carrier AB;ISDN-Refile;Premium;;;0.1014;0.3960;0.3960;0.0000;0.2946;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Teltac World Wide Inc.SAL;ISDN-Refile;Premium;;;0.1014;0.2000;0.2000;0.0000;0.0986;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Verizon Business;ISDN-Refile;Premium;;;0.1014;0.1230;0.1230;0.0000;0.0216;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vodafone D2 GmbH;ISDN-Refile;Premium;;;0.1014;0.2646;0.2646;0.0000;0.1632;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;WIS INTERNATIONAL SERVICES S.p.A;ISDN-Refile;Premium;;;0.1014;1.2000;1.2000;0.0000;1.0986;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;iBasis Netherlands B.V.;ISDN-Refile;Premium;;;0.1014;0.3918;0.3918;0.0000;0.2904;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tata communications (Canada) ULC;ISDN-Std-Refile;Premium;;;0.1014;0.2158;0.2158;0.0000;0.1144;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;UNIFI Communications. INC;ISDN-refile;Premium;;;0.1014;0.4141;0.4141;0.0000;0.3127;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;AAA-wiau;Origin Product;Premium;;;0.1014;0.6591;0.6591;0.0000;0.5577;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;COLT Telecom GmbH;PRM-REFILE;Premium;;;0.1014;0.3080;0.3080;0.0000;0.2066;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Optimus Ltd;Premium Refile;Premium;;;0.1014;0.5000;0.5000;0.0000;0.3986;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Bezeq International Ltd;Premium-Refile;Premium;;;0.1014;0.2686;0.2686;0.0000;0.1672;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Cube Communication Ltd.;Premium-Refile;Premium;;;0.1014;0.2646;0.2646;0.0000;0.1632;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Elisa Corporation;Premium-Refile;Premium;;;0.1014;0.3518;0.3518;0.0000;0.2504;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Hutchinson Global Communications Limited;Premium-Refile;Premium;;;0.1014;0.2980;0.2980;0.0000;0.1966;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;IT TEL;Premium-Refile;Premium;;;0.1014;0.5100;0.5100;0.0000;0.4086;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;KOC;Premium-Refile;Premium;;;0.1014;0.3159;0.3159;0.0000;0.2145;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;MTT;Premium-Refile;Premium;;;0.1014;0.3802;0.3802;0.0000;0.2788;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Romtelecom;Premium-Refile;Premium;;;0.1014;0.5082;0.5082;0.0000;0.4068;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Rostelecom;Premium-Refile;Premium;;;0.1014;0.2510;0.2510;0.0000;0.1496;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;T-Hrvatski Telekom;Premium-Refile;Premium;;;0.1014;0.4200;0.4200;0.0000;0.3186;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tata communications (Canada) ULC;Premium-Refile;Premium;;;0.1014;0.2390;0.2390;0.0000;0.1376;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telecom Italia Sparkle;Premium-Refile;Premium;;;0.1014;0.3000;0.3000;0.0000;0.1986;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telekom Srbija a.d.;Premium-Refile;Premium;;;0.1014;0.2600;0.2600;0.0000;0.1586;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;TeliaSonera International Carrier AB;Premium-Refile;Premium;;;0.1014;0.3960;0.3960;0.0000;0.2946;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vodafone D2 GmbH;Premium-Refile;Premium;;;0.1014;0.2646;0.2646;0.0000;0.1632;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;WIS INTERNATIONAL SERVICES S.p.A;Premium-Refile;Premium;;;0.1014;1.2000;1.2000;0.0000;1.0986;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;iBasis Netherlands B.V.;Premium-Refile;Premium;;;0.1014;0.3918;0.3918;0.0000;0.2904;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telenor Global Services AS;Prm-Refile;Premium;;;0.1014;0.4148;0.4148;0.0000;0.3134;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;ATT Corporation;Refile-Premium;Premium;;;0.1014;0.2090;0.2090;0.0000;0.1076;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;brendan;SPBrendan;Premium;;;0.1014;1.9904;1.9904;0.0000;1.8890;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;LANCK Telecom;Standard Refile;Premium;;;0.1014;0.4380;0.4380;0.0000;0.3366;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;PRIMUS;Standard Refile;Premium;;;0.1014;13.9780;13.9780;0.0000;13.8766;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;SURFCREEK COMMUNICATIONS INC.;Standard Refile;Premium;;;0.1014;0.4540;0.4540;0.0000;0.3526;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Vox  Telecom;Standard Refile;Premium;;;0.1014;0.3400;0.4000;0.0600;0.2986;High Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;D-COM SIA;Standard refile;Premium;;;0.1014;0.4838;0.4838;0.0000;0.3824;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;GTS CZECH s.r.o.;Standard-ISDN-Refile;Premium;;;0.1014;0.2554;0.2554;0.0000;0.1540;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;A1 Telekom Austria AG;Standard-Refile;Premium;;;0.1014;0.2720;0.2720;0.0000;0.1706;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Akton Telekomunikacijski inzeniring d.o.o.;Standard-Refile;Premium;;;0.1014;0.2140;0.2140;0.0000;0.1126;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Bulgarian Telecommunications Company PLC;Standard-Refile;Premium;;;0.1014;0.3960;0.3960;0.0000;0.2946;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;CAPITAL CITY SERVICE LIMITED (CYPRUS BRANCH);Standard-Refile;Premium;;;0.1014;0.2242;0.2242;0.0000;0.1228;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;France Telecom;Standard-Refile;Premium;;;0.1014;0.2692;0.2692;0.0000;0.1678;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;GTS CZECH s.r.o.;Standard-Refile;Premium;;;0.1014;0.2554;0.2554;0.0000;0.1540;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;KDDI Europe Ltd;Standard-Refile;Premium;;;0.1014;0.2130;0.2130;0.0000;0.1116;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;OTEGLOBE;Standard-Refile;Premium;;;0.1014;0.2600;0.2600;0.0000;0.1586;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Pantel International AG;Standard-Refile;Premium;;;0.1014;1.2000;1.2000;0.0000;1.0986;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Rostelecom;Standard-Refile;Premium;;;0.1014;0.6013;0.6013;0.0000;0.4999;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Star Communication;Standard-Refile;Premium;;;0.1014;0.2298;0.2298;0.0000;0.1284;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;TDC Switzerland AG;Standard-Refile;Premium;;;0.1014;0.1820;0.1820;0.0000;0.0806;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tata communications (Canada) ULC;Standard-Refile;Premium;;;0.1014;0.2158;0.2158;0.0000;0.1144;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Tele2 SVERIGE AB;Standard-Refile;Premium;;;0.1014;0.2690;0.2690;0.0000;0.1676;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telefonica O2 Czech Republic. a.s.;Standard-Refile;Premium;;;0.1014;0.2752;0.2752;0.0000;0.1738;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telekomunikacja Polska;Standard-Refile;Premium;;;0.1014;0.1896;0.1896;0.0000;0.0882;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Teltac World Wide Inc.SAL;Standard-Refile;Premium;;;0.1014;0.2000;0.2000;0.0000;0.0986;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;UNIFI Communications. INC;Standard-refile;Premium;;;0.1014;0.4141;0.4141;0.0000;0.3127;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;vodafone_kalpit_test;Vodafone_kalpit_premium;Premium;;;0.1014;0.5166;0.5166;0.0000;0.4152;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;Telekom Slovenija;ZAPORA;Premium;;;0.1014;200.0000;200.0000;0.0000;199.8986;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal
+United Kingdom-Others;ObakengTest;obakengTestSupplier;Premium;;;0.1014;0.3460;0.3460;0.0000;0.2446;Equal Rate;8/29/2023;12/31/9999;Contact 3 Internal

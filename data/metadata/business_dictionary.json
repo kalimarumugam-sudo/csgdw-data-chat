@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-09-12T07:23:00.027618",
+    "description": "Business dictionary for mapping business terms to Oracle schema fields"
+  },
+  "categories": {
+    "carrier": "Carrier-related terms",
+    "product": "Product-related terms",
+    "agreement": "Agreement-related terms",
+    "destination": "Destination-related terms",
+    "rate": "Rate-related terms",
+    "timetype": "time type related terms"
+  },
+  "mappings": [
+    {
+      "business_term": "carrier",
+      "table_name": "CARRIER",
+      "column_name": "CARRIERID",
+      "description": "Carrier information and details",
+      "synonyms": [
+        "carriers", "carrier","supplier", "suppliers","customer", "customers"
+      ],
+      "category": "carrier",
+      "confidence": 1.0,
+      "filter_condition": "IS_DISABLED = 0"
+    },
+    {
+      "business_term": "product",
+      "table_name": "PPM_PRODUCT",
+      "column_name": "PPM_PRODUCTID",
+      "description": "Product information and details",
+      "synonyms": ["supplier product", "product","carrier product","our product"
+      ],
+      "category": "product",
+      "confidence": 1.0
+    },
+    {
+      "business_term": "agreement",
+      "table_name": "AGREEMENT",
+      "column_name": "AGREEMENTID",
+      "description": "Agreement information and details",
+      "synonyms": [
+        "agreement id"
+      ],
+      "category": "agreement",
+      "confidence": 1.0,
+      "filter_condition": "IS_VALID_REVISION = 1 AND TRUNC(SYSDATE) BETWEEN TRUNC(VALID_FROM) AND TRUNC(VALID_UNTIL)"
+    },
+    {
+      "business_term": "destination",
+      "table_name": "DESTINATION",
+      "column_name": "DESTINATIONID",
+      "description": "Destination information and details",
+      "synonyms": ["destinations"],
+      "category": "destination",
+      "confidence": 1.0
+    },
+    {
+      "business_term": "routing destination",
+      "table_name": "DESTINATION",
+      "column_name": "DESTINATIONID",
+      "description": "Destination information and details",
+      "synonyms": ["routing destinations"],
+      "category": "destination",
+      "confidence": 1.0,
+      "filter_condition": "DESTTYPEID = 1"
+    },
+    {
+      "business_term": "supplier destination",
+      "table_name": "DESTINATION",
+      "column_name": "DESTINATIONID",
+      "description": "Destination information and details",
+      "synonyms": ["supplier destinations"],
+      "category": "destination",
+      "confidence": 1.0,
+      "filter_condition": "DESTTYPEID = 3"
+    },
+    {
+      "business_term": "product destination",
+      "table_name": "DESTINATION",
+      "column_name": "DESTINATIONID",
+      "description": "Destination information and details",
+      "synonyms": ["product destinations"],
+      "category": "destination",
+      "confidence": 1.0,
+      "filter_condition": "DESTTYPEID = 5"
+    },
+    {
+      "business_term": "Time Type",
+      "table_name": "TIME_TYPE",
+      "column_name": "TIME_TYPEID",
+      "description": "Time Type information and details",
+      "synonyms": ["Time Types"],
+      "category": "timetype",
+      "confidence": 1.0
+    },
+    {
+      "business_term": "refile",
+      "table_name": "AGREEMENT_TYPE",
+      "column_name": "AGRTYPEID",
+      "description": "Refile agreement type",
+      "synonyms": ["refile agreement", "refile type"],
+      "category": "agreement",
+      "confidence": 1.0,
+      "filter_condition": "AGRTYPEID = 3"
+    },
+    {
+      "business_term": "bilateral",
+      "table_name": "AGREEMENT_TYPE", 
+      "column_name": "AGRTYPEID",
+      "description": "Bilateral agreement type",
+      "synonyms": ["bilateral agreement", "bilateral type"],
+      "category": "agreement",
+      "confidence": 1.0,
+      "filter_condition": "AGRTYPEID = 1"
+    },
+    {
+      "business_term": "hubbing",
+      "table_name": "AGREEMENT_TYPE", 
+      "column_name": "AGRTYPEID",
+      "description": "Hubbing agreement type",
+      "synonyms": ["hubbing agreement", "hubbing type"],
+      "category": "agreement",
+      "confidence": 1.0,
+      "filter_condition": "AGRTYPEID = 4"
+    },
+    {
+      "business_term": "supplier rate",
+      "table_name": "AGR_RATE_USAGE_CHARGE",
+      "column_name": "RATE_USAGE_CHARGEID",
+      "description": "Rate for specific destination, time type, and product combination for a supplier",
+      "synonyms": ["destination pricing", "route rate", "call rate", "destination charge"],
+      "category": "rate",
+      "confidence": 1.0,
+      "filter_condition": "arp.IS_ACTIVE = 1 AND ar.IS_ACTIVE = 1 AND TRUNC (sysdate) BETWEEN arp.valid_from AND arp.valid_until AND d.DESTTYPEID = 3 AND ai.REVISION > 0",
+      "join_instructions": "AGREEMENT a ON a.CARRIERID = c.CARRIERID JOIN AGREEMENT_PART ap ON a.AGREEMENTID = ap.AGREEMENTID JOIN AGR_ITEM ai ON (ai.BASE_AGRPARTID = ap.BASE_AGRPARTID AND ai.DESTINATIONID = DESTINATION.DESTINATIONID AND ai.PPM_PRODUCTID = PPM_PRODUCT.PPM_PRODUCTID AND ai.TIME_TYPEID = TIME_TYPE.TIME_TYPEID) JOIN AGR_RATE_PERIOD arp ON arp.AGR_ITEMID = ai.AGR_ITEMID JOIN AGR_RATE ar ON ar.RATE_PERIODID = arp.RATE_PERIODID JOIN AGR_RATE_USAGE_CHARGE aruc ON aruc.AGR_RATEID = ar.AGR_RATEID",
+      "display_columns": [
+          "a.AGREEMENT_NAME",
+          "c.CARRIER_NAME",
+          "d.DESTINATION_NAME",
+          "tt.TIME_TYPE_NAME",
+          "pp.PPM_PRODUCT_NAME",
+          "aruc.USAGE_CHARGE"
+      ]
+    }
+  ]
+}
