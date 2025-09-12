@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from data_loader import load_data
-from ai_service import extract_sql_query, get_ai_response, prepare_messages_for_api
+from ai_service import extract_sql_query, get_ai_response, prepare_messages_for_api, USE_OPENAI
 
 def execute_sql_query(query, dataframe):
     """Execute SQL query and return results"""
@@ -64,6 +64,11 @@ def run_app():
     # Sidebar - Chat Interface (Hideable)
     with st.sidebar:
         st.subheader("💬 Buy Rates Analysis Chat")
+        
+        # Show current LLM provider
+        provider_name = "🤖 OpenAI GPT-4" if USE_OPENAI else "🧠 AWS Bedrock Claude 3.5 Sonnet"
+        st.info(f"**LLM Provider:** {provider_name}")
+        
         st.write("Ask questions about your buy rates data - trends, comparisons, and insights!")
         
         # Clear chat button at top
